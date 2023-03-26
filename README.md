@@ -8,7 +8,6 @@ A ideia inicial desse projeto é armazenar conteúdos sobre as diversas cadeiras
 
 </h4>    
   
-  
 <p>
 <!-- Image Shields -->
 <img  alt="Language Top"  src="https://img.shields.io/github/languages/top/RickFerreira/Engenhocos">
