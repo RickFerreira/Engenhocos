@@ -44,14 +44,6 @@ A ideia inicial desse projeto é armazenar conteúdos sobre as diversas cadeiras
         </sub>
       </a>
     </td>
-        <td align="center">
-      <a href="https://github.com/Patricia-Santos">
-        <img src="https://avatars.githubusercontent.com/u/54537516?v=4" width="100px;" alt="Avatar Patty"/><br>
-        <sub>
-          <b>Autor: Patricia Santos</b>
-        </sub>
-      </a>
-    </td>
   </tr>
 </table>
 
