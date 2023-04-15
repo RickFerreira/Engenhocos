@@ -7,7 +7,8 @@
 A ideia inicial desse projeto é armazenar conteúdos sobre as diversas cadeiras do curso de Engenharia de Computação do IFPB Campus Campina Grande, a partir de um site simples e direto. Pretendo conseguir o máximo de contribuintes possíveis para esse projeto e assim ter conteúdo de todas as cadeiras e periódos do curso. O objetivo principal é que exista um site onde vai estar concentrado todos os conteúdos utilizados por outros alunos, para estudar uma determinada cadeira, e assim contribuir com os estudos dos próximos que forem pagar aquela mesma. 
 
 </h4>    
-  
+   
+   
 <p>
 <!-- Image Shields -->
 <img  alt="Language Top"  src="https://img.shields.io/github/languages/top/RickFerreira/Engenhocos">
