@@ -40,7 +40,23 @@ A ideia inicial desse projeto é armazenar conteúdos sobre as diversas cadeiras
       <a href="https://github.com/RickFerreira">
         <img src="https://avatars.githubusercontent.com/u/40415279?v=4" width="100px;" alt="Avatar Rick"/><br>
         <sub>
-          <b>Autor: Richard Ferreira</b>
+          <b>Richard Ferreira</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lucasgomes14">
+        <img src="https://avatars.githubusercontent.com/u/62152683?v=4" width="100px;" alt="Avatar Lucas"/><br>
+        <sub>
+          <b>Lucas Gomes</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lucasgomes14">
+        <img src="https://avatars.githubusercontent.com/u/54537516?v=4" width="100px;" alt="Avatar Lucas"/><br>
+        <sub>
+          <b>Patricia Santos</b>
         </sub>
       </a>
     </td>
