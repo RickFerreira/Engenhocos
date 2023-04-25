@@ -18,10 +18,9 @@ A ideia inicial desse projeto é armazenar conteúdos sobre as diversas cadeiras
 </a>
 </p>
 <br>
-<br>
+
 
 ### 💻 Results
-<br>
 <a href="https://engenhocos.vercel.app/">--------------Click aqui para ver como esta ficando--------------</a>
 <br><br>
 
