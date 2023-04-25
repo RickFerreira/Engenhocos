@@ -1,16 +1,27 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+
+import { BrowserRouter as Router, Route, Routes} from 'react-router-dom'
+import Home from './components/pages/Home'
+import Cursos from './components/pages/Cursos'
+import Contact from './components/pages/Contact'
+
+
+import Container from './components/layout/Container'
+import Navbar from './components/layout/Navbar'
+import Footer from './components/layout/Footer'
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
-    <div className="App">
-      <h1>Olá Mundo!!</h1>
-      Esse aqui vai ser o meu novo projeto, em que vou fazer uma aplicação para ajudar alunos do curso de Engenharia da Computação do IFPB    
-    </div>
+    <Router>
+      <Navbar />
+      <Container customClass="min-height">
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="cursos/*" element={<Cursos />} />
+          <Route path="contact/*" element={<Contact />} />
+        </Routes>
+      </Container>
+      <Footer />
+    </Router> 
   )
 }
 
