@@ -17,7 +17,6 @@ function Footer() {
         <li>
           <FaLinkedin />
         </li>
-
       </ul>
       <p className={styles.copy_right}>
         <span>Engenhocos - By Rick & Lucas & Paty</span> &copy; 2023
