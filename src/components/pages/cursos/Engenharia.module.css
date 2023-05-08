@@ -5,9 +5,13 @@
     padding: 5vh 14vw;
 }
 
+.titulo {
+    margin-bottom: 1em;
+}
+
 .item {
     font-size: 100%;
-    margin-bottom: 2em;
+    margin-bottom: 1em;
 }
   
 .item a {
